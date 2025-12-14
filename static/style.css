@@ -1,0 +1,154 @@
+body{
+    background-color: #ebecf0;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+}
+.navbar{
+    background-color: #C6DAD2;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-items{
+color: black;
+letter-spacing: 3px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#nav-item1{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-item1{
+    padding-left: 50px;
+}
+.navbar-item2{
+    padding-left: 225px;
+}
+.btn1{
+    height: 28px;
+    width: 28px;
+    margin: 2px solid black;
+}
+.search{
+    padding-left: 40px;
+}
+.search-txt{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-weight: bold;
+}
+.button{
+    padding-top: 7px;
+    padding-right: 10px;
+}
+.search-bar{
+    padding-left: 10px;
+}
+#project-title{
+    padding-top: 20px;
+}
+.text-success{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
+   margin-top: 60px;
+   margin-bottom: 30px;
+   margin-left: 120px;
+   margin-right: 120px;
+   font-weight: bold;
+   background-color:white;
+   border-radius: 25px;
+}
+.options{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    
+}
+.form-control{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    text-align: center;
+    border: 1px solid #C6DAD2;
+    border-radius: 4px;
+}
+.proj{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#project-title{
+    color: black;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.option-6{
+    text-align: center;
+}
+#sub-btn{
+    background-color:#525250;
+    background-color: rgb(25 135 84);
+}
+.btn{
+    color: white;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px white none;
+    border-radius: none;
+}
+.main-form{
+     border-radius: 15px;
+}
+.main-btn{
+    padding-bottom: 40px;
+}
+.form{
+    padding-left: 50px;
+}
+.card-title{
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    border-radius: 15px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    border: none;
+    text-align: center;
+    margin-top: 30px;
+    padding-left: 100px;
+    background-color: #ebecf0;
+}
+#card-body{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    padding: none;
+    border-radius: 10px;
+}
+.output{
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.result{
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.card-img{
+    border-radius: 10px;
+}
