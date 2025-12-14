@@ -9,6 +9,23 @@ based on soil nutrients and climatic conditions.
 - Scikit-learn
 - HTML, CSS
 
+**Inputs**
+
+Nitrogen
+
+Phosphorus
+
+Potassium
+
+Temperature
+
+Humidity
+
+pH
+
+Rainfall
+
+
 ## How to Run
 ```bash
 pip install -r requirements.txt {.\venv\Scripts\Activate.ps1}
