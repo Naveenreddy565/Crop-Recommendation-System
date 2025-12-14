@@ -14,3 +14,20 @@ based on soil nutrients and climatic conditions.
 pip install -r requirements.txt {.\venv\Scripts\Activate.ps1}
 python app.py {python app.py}
 
+
+
+**Inputs**
+
+Nitrogen
+
+Phosphorus
+
+Potassium
+
+Temperature
+
+Humidity
+
+pH
+
+Rainfall
